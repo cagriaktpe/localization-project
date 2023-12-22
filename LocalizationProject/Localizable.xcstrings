@@ -16,6 +16,12 @@
           }
         }
       }
+    },
+    "This will also be localized!" : {
+
+    },
+    "This will be localized!" : {
+
     }
   },
   "version" : "1.0"
