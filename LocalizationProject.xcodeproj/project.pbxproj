@@ -11,6 +11,7 @@
 		81BCF64A2B359CFE00F94E9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BCF6492B359CFE00F94E9C /* ContentView.swift */; };
 		81BCF64C2B359D0000F94E9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF64B2B359D0000F94E9C /* Assets.xcassets */; };
 		81BCF64F2B359D0000F94E9C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF64E2B359D0000F94E9C /* Preview Assets.xcassets */; };
+		81BCF6562B359D6E00F94E9C /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF6552B359D6D00F94E9C /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		81BCF6492B359CFE00F94E9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		81BCF64B2B359D0000F94E9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81BCF64E2B359D0000F94E9C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		81BCF6552B359D6D00F94E9C /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				81BCF6472B359CFE00F94E9C /* LocalizationProjectApp.swift */,
 				81BCF6492B359CFE00F94E9C /* ContentView.swift */,
+				81BCF6552B359D6D00F94E9C /* Localizable.xcstrings */,
 				81BCF64B2B359D0000F94E9C /* Assets.xcassets */,
 				81BCF64D2B359D0000F94E9C /* Preview Content */,
 			);
@@ -109,6 +112,8 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				tr,
 			);
 			mainGroup = 81BCF63B2B359CFE00F94E9C;
 			productRefGroup = 81BCF6452B359CFE00F94E9C /* Products */;
@@ -127,6 +132,7 @@
 			files = (
 				81BCF64F2B359D0000F94E9C /* Preview Assets.xcassets in Resources */,
 				81BCF64C2B359D0000F94E9C /* Assets.xcassets in Resources */,
+				81BCF6562B359D6E00F94E9C /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
