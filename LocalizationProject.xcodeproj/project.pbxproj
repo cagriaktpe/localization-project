@@ -10,6 +10,7 @@
 		81B6B6102B36B9C9001121FA /* EnumExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B6B60F2B36B9C9001121FA /* EnumExampleView.swift */; };
 		81B6B6122B36BCF8001121FA /* Extra.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 81B6B6112B36BCF8001121FA /* Extra.xcstrings */; };
 		81B6B6142B36BD17001121FA /* ExtraTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B6B6132B36BD17001121FA /* ExtraTableView.swift */; };
+		81B6B6162B36C0B6001121FA /* PluralTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B6B6152B36C0B6001121FA /* PluralTestView.swift */; };
 		81BCF6482B359CFE00F94E9C /* LocalizationProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BCF6472B359CFE00F94E9C /* LocalizationProjectApp.swift */; };
 		81BCF64A2B359CFE00F94E9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BCF6492B359CFE00F94E9C /* ContentView.swift */; };
 		81BCF64C2B359D0000F94E9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF64B2B359D0000F94E9C /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 		81B6B60F2B36B9C9001121FA /* EnumExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumExampleView.swift; sourceTree = "<group>"; };
 		81B6B6112B36BCF8001121FA /* Extra.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Extra.xcstrings; sourceTree = "<group>"; };
 		81B6B6132B36BD17001121FA /* ExtraTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraTableView.swift; sourceTree = "<group>"; };
+		81B6B6152B36C0B6001121FA /* PluralTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PluralTestView.swift; sourceTree = "<group>"; };
 		81BCF6442B359CFE00F94E9C /* LocalizationProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalizationProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81BCF6472B359CFE00F94E9C /* LocalizationProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationProjectApp.swift; sourceTree = "<group>"; };
 		81BCF6492B359CFE00F94E9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				81BCF6572B35A0A100F94E9C /* ExtractToStringCatalogExampleView.swift */,
 				81BCF6552B359D6D00F94E9C /* Localizable.xcstrings */,
 				81B6B6112B36BCF8001121FA /* Extra.xcstrings */,
+				81B6B6152B36C0B6001121FA /* PluralTestView.swift */,
 				81B6B6132B36BD17001121FA /* ExtraTableView.swift */,
 				81B6B60F2B36B9C9001121FA /* EnumExampleView.swift */,
 				81BCF64B2B359D0000F94E9C /* Assets.xcassets */,
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B6B6162B36C0B6001121FA /* PluralTestView.swift in Sources */,
 				81B6B6102B36B9C9001121FA /* EnumExampleView.swift in Sources */,
 				81BCF64A2B359CFE00F94E9C /* ContentView.swift in Sources */,
 				81BCF6582B35A0A100F94E9C /* ExtractToStringCatalogExampleView.swift in Sources */,
