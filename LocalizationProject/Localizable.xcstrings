@@ -1,6 +1,15 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Direction" : {
+
+    },
+    "Direction is: %@" : {
+
+    },
+    "East" : {
+
+    },
     "Hello, world!" : {
       "localizations" : {
         "de" : {
@@ -17,10 +26,22 @@
         }
       }
     },
+    "Localize this text" : {
+
+    },
+    "North" : {
+
+    },
+    "South" : {
+
+    },
     "This will also be localized!" : {
 
     },
     "This will be localized!" : {
+
+    },
+    "West" : {
 
     }
   },
